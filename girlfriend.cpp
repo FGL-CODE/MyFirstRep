@@ -6,4 +6,4 @@ class CGirlFriend
   
 };
 
-#endef _GIRLFRIEND_
+#endif _GIRLFRIEND_
